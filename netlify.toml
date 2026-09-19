@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+  command = ""
+
+[[edge_functions]]
+  function = "cloak"
+  path = "/*"
